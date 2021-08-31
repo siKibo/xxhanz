@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxhanz
+- 👋 Hi, I’m @Kibo
 - 👀 I’m interested in My Self
 - 🌱 I’m currently learning LUA and Java
 - 💞️ I’m looking to collaborate on idk
